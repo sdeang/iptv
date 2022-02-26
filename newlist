@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1,fetv
 https://cdn1-6p.teleuptv.net/806c57bb-85bc-4773-becc-e24433711d14/index.m3u8
@@ -9,3 +10,15 @@ https://cdn1-6p.teleuptv.net/7efffed8-115a-4742-93ee-f17d22c8b11f/index.m3u8
 https://cdn1-6p.teleuptv.net/ceed6abf-d924-4d84-bc22-a8a86fdc57a4/index.m3u8
 #EXTINF:-1,FITE 24/7
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8?l1br3date1016&CatUSAFreeTV
+#EXTINF:-1,Kool TV
+http://64.91.244.153:1935/roku/roku/playlist.m3u8
+#EXTINF:-1,Victor Valley
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1,No Walls
+https://2-fss-2.streamhoster.com/pl_120/205552-2115790-1/playlist.m3u8
+#EXTINF:-1,Kino Cult
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2048&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=f5eda336b43c9773462ab85dfbad57ec&app_bundle=com.giant.kinocult&app_store_url=https%3A%2F%2Fwww.kinocult.com%2Fdevices&app_domain=kinocult.com&app_name=kinocult&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=kinocult&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1645616395&id=560&ip=2001%3A1970%3A4000%3A26%3Ac4dd%3Ab2e5%3A94e3%3Adfb9&override_expiration=1500&sign=ToKkVH0R81KiFIIWuBhrVzPjkAteZiJj6D1LbFmQT34%3D
+#EXTINF:-1,Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemadeinternational-brightcove/playlist.m3u8?dnt=REPLACEME&did=REPLACEME&us_privacy=%7BUS_PRIVACY%7D
+#EXTINF:-1,Sky News
+https://vidplus.pc.cdn.bitgravity.com/skynewspp-origin/live/playlist.m3u8
